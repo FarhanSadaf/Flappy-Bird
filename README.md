@@ -1,6 +1,6 @@
 # Flappy-Bird
 Flappy Bird Game (PyGame)
 
-# Requrements
+## Requirements
 - Python 3.x (32 bit)
 - PyGame
